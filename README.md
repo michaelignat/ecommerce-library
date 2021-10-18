@@ -6,6 +6,7 @@ Includes features such as:
 -
 - Dynamic paging for each book
 - Cart functionality
+- Skeleton loading state for books
 
 Created using:
 -
