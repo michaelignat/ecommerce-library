@@ -245,14 +245,15 @@ header {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-top: 75px;
 }
 
 .header__img--wrapper {
   padding: 20px;
-
-  /* Added this after the tutorial to 
-  show it over the wave on larger screens */
   z-index: 50;
+  max-width: 600px;
+  width: 100%;
+  margin: 0 auto;
 }
 
 .container {
