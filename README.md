@@ -2,7 +2,7 @@
 
 My first React project!
 
-Used features such as:
+Includes features such as:
 -
 - Dynamic paging for each book
 - Cart functionality
