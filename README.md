@@ -1,7 +1,5 @@
 # React E-Commerce Library App
 
-My first React project!
-
 Includes features such as:
 -
 - Dynamic paging for each book
