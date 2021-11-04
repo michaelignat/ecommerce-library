@@ -1,13 +1,14 @@
 # React E-Commerce Library App
 
-Includes features such as:
--
+### Live Demo:
+https://ecommerce-library.herokuapp.com/
+
+### Includes features such as:
 - Dynamic paging for each book
 - Cart functionality
 - Skeleton loading state for books
 
-Created using:
--
+### Created using:
  - Hooks
 	 - useState()
 	 - useEffect()
